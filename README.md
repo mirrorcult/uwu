@@ -1,6 +1,6 @@
 # uwu
 
-CLI app that UwU-izes a string of text, you know? Only for linux right now, executable is in `dist`.
+> CLI app that UwU-izes a string of text, you know? Only for linux right now, executable is in `dist`.
 
 `uwu "Hello there friendo"`
 
