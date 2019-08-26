@@ -1,4 +1,4 @@
-# uwu
+# *uwu*
 
 > CLI app that UwU-izes a string of text, you know? Only for linux right now, executable is in `dist`.
 
@@ -17,4 +17,4 @@ To this end, Communists of vawious nationawities ;3 have assembwed in London and
 
 I. Bouwgeois and Pwowetawians
 
-The histowy of aww hithewto existing societyis the histowy of cwass stwuggwes. Fweeman and swave, :3 patwician and pwebeian, wowd and UwU sewf, guiwd-mastew and jouwneyman, in a wowd, oppwessow and oppwessed, stood in constant opposition UwU to one :3 anothew, cawwied on an unintewwupted, now hidden, now open fight, ;3 a fight that each time ended, eithew in a wevowutionawy weconstitution of society at wawge, ow in the common wuin of the contending cwasses. :3 In the eawwiew UwU epochs of :3 histowy, ;3
+The histowy of aww hithewto existing societyis the histowy of cwass stwuggwes. Fweeman and swave, :3 patwician and pwebeian, wowd and UwU sewf, guiwd-mastew and jouwneyman, in a wowd, oppwessow and oppwessed, stood in constant opposition UwU to one :3 anothew, cawwied on an unintewwupted, now hidden, now open fight, ;3 a fight that each time ended, eithew in a wevowutionawy weconstitution of society at wawge, ow in the common wuin of the contending cwasses. :3
